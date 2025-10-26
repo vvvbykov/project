@@ -1,8 +1,4 @@
-
-test str False
-
-test True
-
+test str 0
 
 test str 1
 
